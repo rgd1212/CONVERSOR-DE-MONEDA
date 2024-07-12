@@ -13,5 +13,5 @@ b. Abre el proyecto en IntelliJ IDEA.
 c. Ejecuta la clase `Principal.java` para iniciar el programa.
 
 ## 3. Como utilizar el programa
-
+![1.png](image%2F1.png)
 
