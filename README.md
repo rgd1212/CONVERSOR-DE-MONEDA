@@ -16,7 +16,9 @@ c. Ejecuta la clase `Principal.java` para iniciar el programa la manera mas faci
 a. Nos muestra el menu del programa despues de hacer correr el programa
 ![1.png](image%2F1.png)
 
-b. Primero presionamos la tecla `C` o `c` seguido de enter para ingresar la opcion que escogimos despues de ingresar la opcion escogida volvemos a presionar enter
+b. Primero presionamos la tecla `C` o `c` seguido de enter para ingresar
+   la opcion que escogimos despues de ingresar la opcion escogida 
+   volvemos a presionar enter
 ![2.png](image%2F2.png)
 
 c. Se vuelver a repetir los mismos pasos
