@@ -19,3 +19,12 @@ a. Nos muestra el menu del programa despues de hacer correr el programa
 b. Primero presionamos la tecla `C` o `c` seguido de enter para ingresar la opcion que escogimos despues de ingresar la opcion escogida volvemos a presionar enter
 ![2.png](image%2F2.png)
 
+c. Se vuelver a repetir los mismos pasos
+![3.png](image%2F3.png)
+
+d. Ingresamo el monto deseado a convertir y presionamos la tecla enter
+![4.png](image%2F4.png)
+
+e. Nos muestra la conversion y presionamos la tecla `S``s` o `N``n` si deseamos ver el historial de conversion
+![5.png](image%2F5.png)
+
